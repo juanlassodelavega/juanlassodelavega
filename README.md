@@ -15,25 +15,16 @@
 
 </div>
 
-## ES
+## Why Work With Me
 
-Desarrollador full-stack enfocado en crear productos utiles y mantenibles, con especial atencion a arquitectura, experiencia de usuario y calidad de codigo.
+I build digital products end-to-end, from user-facing experience to scalable backend architecture.
 
-- Estilo de trabajo: orientado a producto, iterativo y pragmatico.
-- Fortalezas: frontend claro, backend robusto, enfoque end-to-end.
-- Idiomas: espanol e ingles.
-- Disponible para: colaboraciones, freelance y equipos con ambicion de producto.
-
-## EN
-
-Full-stack developer focused on building useful and maintainable products, with strong emphasis on architecture, user experience, and code quality.
-
-- Working style: product-minded, iterative, and pragmatic.
-- Strengths: clean frontend, robust backend, end-to-end ownership.
+- Product mindset: I prioritize outcomes, not only code output.
+- End-to-end ownership: frontend, backend, data, and deployment.
+- Communication: clear async updates, clear technical decisions.
 - Languages: Spanish and English.
-- Open to: collaborations, freelance work, and product-focused teams.
 
-## Impact Snapshot
+## Snapshot
 
 <div align="center">
 
@@ -45,6 +36,22 @@ Full-stack developer focused on building useful and maintainable products, with 
 </div>
 
 Data source: GitHub API (checked on 2026-03-31).
+
+## Choose Your View
+
+<div align="center">
+
+<a href="#-hiring-view-for-tech-teams">
+  <img src="https://img.shields.io/badge/Hiring%20View-Tech%20Teams-111827?style=for-the-badge" alt="Hiring view" />
+</a>
+<a href="#-freelance-view-for-founders-and-startups">
+  <img src="https://img.shields.io/badge/Freelance%20View-Founders%20%26%20Startups-0F766E?style=for-the-badge" alt="Freelance view" />
+</a>
+<a href="#-open-source-view-for-contributors">
+  <img src="https://img.shields.io/badge/Open%20Source%20View-Contributors-7C3AED?style=for-the-badge" alt="Open source view" />
+</a>
+
+</div>
 
 ## Core Toolbox
 
@@ -71,12 +78,31 @@ Data source: GitHub API (checked on 2026-03-31).
 
 </div>
 
-### Project Highlights
+### Hiring View (For Tech Teams)
 
-- Tripin: travel-focused web product with end-to-end implementation.
-- DVCApp: final-degree proof-of-concept repository with product and technical depth.
-- RandoMaps: map-based project with practical JavaScript usage and deployment.
-- graph-algorithms-python: graph algorithms implemented in Python for learning and experimentation.
+If you need a developer who can jump into an existing roadmap and ship cleanly:
+
+- Build maintainable features with clear structure and readable code.
+- Collaborate across product, design, and engineering.
+- Keep delivery speed high without sacrificing long-term quality.
+- Improve reliability through pragmatic architecture decisions.
+
+### Freelance View (For Founders and Startups)
+
+If you need someone to turn ideas into shipped product quickly:
+
+- Prototype and validate fast, then harden for real users.
+- Own implementation from concept to deployment.
+- Prioritize business value and user experience.
+- Communicate progress clearly with low management overhead.
+
+### Open Source View (For Contributors)
+
+If you value practical code and collaborative iteration:
+
+- Interest in useful tooling, product experiments, and algorithms.
+- Preference for clean pull requests and documented decisions.
+- Continuous improvement mindset through real projects.
 
 ## GitHub Analytics
 
@@ -111,12 +137,28 @@ Data source: GitHub API (checked on 2026-03-31).
 
 </div>
 
-## Focus Areas
+## Bilingual Intro (ES/EN)
 
-- Product engineering: shipping complete experiences, not isolated features.
-- Maintainability: readable code, clear structure, and scalable decisions.
-- Performance: optimize where impact is measurable for users.
-- Continuous learning: practical experiments and steady iteration.
+<details>
+<summary>Ver descripcion bilingue</summary>
+
+### ES
+
+Desarrollador full-stack orientado a producto. Me enfoco en crear experiencias utiles para usuarios y bases tecnicas que escalen con el negocio.
+
+- Trabajo iterativo y pragmatico.
+- Frontend claro, backend robusto, ownership completo.
+- Disponible para equipos con ambicion de producto y proyectos freelance.
+
+### EN
+
+Product-minded full-stack developer focused on useful user experiences and scalable technical foundations.
+
+- Iterative and pragmatic working style.
+- Clean frontend, robust backend, full ownership.
+- Open to product-focused teams and freelance projects.
+
+</details>
 
 ## Minimal Version
 
@@ -148,11 +190,11 @@ Full-stack developer building maintainable products with clean UX and robust bac
 
 </div>
 
-## Let's Connect
+## Let's Build Something That Matters
 
 <div align="center">
 
-If you are building something ambitious, I would love to hear about it.
+I am open to high-impact opportunities in product engineering, freelance builds, and collaborative open source work.
 
 <a href="https://linkedin.com/in/juanlassodelavega">
   <img src="https://img.shields.io/badge/Let%27s%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
