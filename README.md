@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Juan Lasso de la Vega
+name: Juan Lasso de la Vega Ruiz-Fornells
 location: 🌍 Spain
 role: Full-Stack Developer
 languages_spoken: [Spanish, English]
