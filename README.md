@@ -3,28 +3,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=F7A11A&text=Juan%20Lasso%20de%20la%20Vega&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product-minded%20Builder&descAlignY=58" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=F7A11A&center=true&vCenter=true&width=900&lines=Designing+and+shipping+end-to-end+digital+products.;From+clean+UX+to+scalable+backend+architecture.;Spanish+%7C+English+%7C+Always+building." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F7A11A&center=true&vCenter=true&width=920&lines=I+design+and+ship+end-to-end+digital+products.;From+UX+clarity+to+backend+reliability.;Spanish+%7C+English+%7C+Always+building." alt="Typing intro" />
 </a>
 
 <p>
   <a href="https://linkedin.com/in/juanlassodelavega"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/juanlassodelavega"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="https://github.com/juanlassodelavega?tab=followers"><img src="https://img.shields.io/github/followers/juanlassodelavega?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" /></a>
-  <img src="https://img.shields.io/github/stars/juanlassodelavega?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20stars" alt="Total stars" />
   <img src="https://komarev.com/ghpvc/?username=juanlassodelavega&style=for-the-badge&color=F7A11A" alt="Profile views" />
 </p>
 
 </div>
 
-## Why Work With Me
+## Who I Am
 
-I build digital products end-to-end, from user-facing experience to scalable backend architecture.
+I build product-driven software from first concept to production.
 
-- Product mindset: I prioritize outcomes, not only code output.
-- End-to-end ownership: frontend, backend, data, and deployment.
-- Communication: clear async updates, clear technical decisions.
-- Languages: Spanish and English.
+- I focus on business outcomes, not only code volume.
+- I work across frontend, backend, data, and deployment.
+- I keep communication simple, async-friendly, and reliable.
+- I work in Spanish and English.
 
-## Snapshot
+## Quick Snapshot
 
 <div align="center">
 
@@ -37,21 +37,14 @@ I build digital products end-to-end, from user-facing experience to scalable bac
 
 Data source: GitHub API (checked on 2026-03-31).
 
-## Choose Your View
+## What You Can Expect
 
-<div align="center">
-
-<a href="#-hiring-view-for-tech-teams">
-  <img src="https://img.shields.io/badge/Hiring%20View-Tech%20Teams-111827?style=for-the-badge" alt="Hiring view" />
-</a>
-<a href="#-freelance-view-for-founders-and-startups">
-  <img src="https://img.shields.io/badge/Freelance%20View-Founders%20%26%20Startups-0F766E?style=for-the-badge" alt="Freelance view" />
-</a>
-<a href="#-open-source-view-for-contributors">
-  <img src="https://img.shields.io/badge/Open%20Source%20View-Contributors-7C3AED?style=for-the-badge" alt="Open source view" />
-</a>
-
-</div>
+| Area | What I deliver |
+| --- | --- |
+| Product execution | Fast iteration from idea to usable release |
+| Engineering quality | Maintainable architecture and clear code standards |
+| Team collaboration | Structured updates and low-overhead communication |
+| Delivery mindset | Practical decisions that balance speed and scalability |
 
 ## Core Toolbox
 
@@ -78,31 +71,25 @@ Data source: GitHub API (checked on 2026-03-31).
 
 </div>
 
-### Hiring View (For Tech Teams)
+## Three Collaboration Modes
 
-If you need a developer who can jump into an existing roadmap and ship cleanly:
+### Hiring Mode (For Product and Engineering Teams)
 
-- Build maintainable features with clear structure and readable code.
-- Collaborate across product, design, and engineering.
-- Keep delivery speed high without sacrificing long-term quality.
-- Improve reliability through pragmatic architecture decisions.
+- You need someone who can join an existing roadmap and ship quickly.
+- You value clean delivery with low supervision.
+- You want a builder who can communicate clearly with design, product, and engineering.
 
-### Freelance View (For Founders and Startups)
+### Freelance Mode (For Founders and Startups)
 
-If you need someone to turn ideas into shipped product quickly:
+- You need to turn a concept into a real product in weeks, not months.
+- You want end-to-end ownership from scope to deployment.
+- You care about impact, speed, and clear iteration loops.
 
-- Prototype and validate fast, then harden for real users.
-- Own implementation from concept to deployment.
-- Prioritize business value and user experience.
-- Communicate progress clearly with low management overhead.
+### Open Source Mode (For Collaborators)
 
-### Open Source View (For Contributors)
-
-If you value practical code and collaborative iteration:
-
-- Interest in useful tooling, product experiments, and algorithms.
-- Preference for clean pull requests and documented decisions.
-- Continuous improvement mindset through real projects.
+- You enjoy practical projects and useful tooling.
+- You value readable pull requests and documented decisions.
+- You want to build and learn through real implementation work.
 
 ## GitHub Analytics
 
@@ -144,30 +131,30 @@ If you value practical code and collaborative iteration:
 
 ### ES
 
-Desarrollador full-stack orientado a producto. Me enfoco en crear experiencias utiles para usuarios y bases tecnicas que escalen con el negocio.
+Desarrollador full-stack orientado a producto. Construyo experiencias utiles para usuarios y bases tecnicas listas para crecer.
 
-- Trabajo iterativo y pragmatico.
-- Frontend claro, backend robusto, ownership completo.
-- Disponible para equipos con ambicion de producto y proyectos freelance.
+- Trabajo iterativo, pragmatico y con ownership completo.
+- Frontend claro, backend robusto, y foco en resultados.
+- Abierto a equipos de producto y proyectos freelance.
 
 ### EN
 
-Product-minded full-stack developer focused on useful user experiences and scalable technical foundations.
+Product-minded full-stack developer focused on useful experiences and scalable technical foundations.
 
-- Iterative and pragmatic working style.
-- Clean frontend, robust backend, full ownership.
-- Open to product-focused teams and freelance projects.
+- Iterative, pragmatic, and ownership-driven execution.
+- Clean frontend, robust backend, and outcome-focused delivery.
+- Open to product teams and freelance collaborations.
 
 </details>
 
-## Minimal Version
+## Minimal Profile Version
 
 <details>
-<summary>Open lightweight profile variant</summary>
+<summary>Open lightweight variant</summary>
 
 ### Juan Lasso de la Vega
 
-Full-stack developer building maintainable products with clean UX and robust backend architecture.
+Full-stack developer building maintainable products with clean UX and reliable backend architecture.
 
 - Product-minded and pragmatic.
 - Spanish and English.
@@ -182,7 +169,7 @@ Full-stack developer building maintainable products with clean UX and robust bac
 
 </details>
 
-## A Bit of Developer Fuel
+## Developer Fuel
 
 <div align="center">
 
@@ -190,14 +177,14 @@ Full-stack developer building maintainable products with clean UX and robust bac
 
 </div>
 
-## Let's Build Something That Matters
+## Lets Build Something That Matters
 
 <div align="center">
 
-I am open to high-impact opportunities in product engineering, freelance builds, and collaborative open source work.
+I am open to high-impact opportunities in product engineering, freelance delivery, and open source collaboration.
 
 <a href="https://linkedin.com/in/juanlassodelavega">
-  <img src="https://img.shields.io/badge/Let%27s%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 </div>
