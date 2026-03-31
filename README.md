@@ -2,14 +2,13 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A11A&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Lasso+de+la+Vega+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A11A&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Juan+Lasso+de+la+Vega+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanlassodelavega)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/juanlassodelavega)
 [![GitHub followers](https://img.shields.io/github/followers/juanlassodelavega?label=Follow&style=for-the-badge&logo=github)](https://github.com/juanlassodelavega)
 [![Profile views](https://komarev.com/ghpvc/?username=juanlassodelavega&style=for-the-badge&color=F7A11A)](https://github.com/juanlassodelavega)
 
@@ -21,7 +20,7 @@
 
 ```yaml
 name: Juan Lasso de la Vega
-location: 🌎 Mexico
+location: 🌍 Spain
 role: Full-Stack Developer
 languages_spoken: [Spanish, English]
 currently_working_on: Something awesome 🚀
