@@ -1,31 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F7A11A&text=Juan%20Lasso%20de%20la%20Vega&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20products%20with%20real%20impact&descAlignY=58" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=F7A11A&text=Juan%20Lasso%20de%20la%20Vega&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product-minded%20Builder&descAlignY=58" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F7A11A&center=true&vCenter=true&width=900&lines=I+design+and+build+web+experiences+end-to-end.;Code%2C+ship%2C+learn%2C+repeat.;Always+curious.+Always+building." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=F7A11A&center=true&vCenter=true&width=900&lines=Designing+and+shipping+end-to-end+digital+products.;From+clean+UX+to+scalable+backend+architecture.;Spanish+%7C+English+%7C+Always+building." alt="Typing intro" />
 </a>
 
 <p>
   <a href="https://linkedin.com/in/juanlassodelavega"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/juanlassodelavega?tab=followers"><img src="https://img.shields.io/github/followers/juanlassodelavega?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" /></a>
+  <img src="https://img.shields.io/github/stars/juanlassodelavega?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20stars" alt="Total stars" />
   <img src="https://komarev.com/ghpvc/?username=juanlassodelavega&style=for-the-badge&color=F7A11A" alt="Profile views" />
 </p>
 
 </div>
 
-## About Me
+## ES
 
-I am Juan, a full-stack developer based in Spain focused on shipping useful, maintainable products. I enjoy turning ideas into clean interfaces, scalable backends, and solid developer experiences.
+Desarrollador full-stack enfocado en crear productos utiles y mantenibles, con especial atencion a arquitectura, experiencia de usuario y calidad de codigo.
+
+- Estilo de trabajo: orientado a producto, iterativo y pragmatico.
+- Fortalezas: frontend claro, backend robusto, enfoque end-to-end.
+- Idiomas: espanol e ingles.
+- Disponible para: colaboraciones, freelance y equipos con ambicion de producto.
+
+## EN
+
+Full-stack developer focused on building useful and maintainable products, with strong emphasis on architecture, user experience, and code quality.
 
 - Working style: product-minded, iterative, and pragmatic.
+- Strengths: clean frontend, robust backend, end-to-end ownership.
 - Languages: Spanish and English.
-- Current focus: improving architecture, performance, and code quality.
-- Open to: collaborations, freelance opportunities, and interesting teams.
+- Open to: collaborations, freelance work, and product-focused teams.
+
+## Impact Snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Public%20repos-10-F7A11A?style=for-the-badge" alt="Public repos" />
+<img src="https://img.shields.io/badge/Followers-6-1E293B?style=for-the-badge" alt="Followers" />
+<img src="https://img.shields.io/badge/Total%20stars-1-0F766E?style=for-the-badge" alt="Total stars" />
+<img src="https://img.shields.io/badge/Profile%20since-2018-334155?style=for-the-badge" alt="Profile since" />
+
+</div>
+
+Data source: GitHub API (checked on 2026-03-31).
 
 ## Core Toolbox
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,graphql,postgres,mongodb,mysql,redis,docker,aws,git,github,vscode,linux,figma" alt="Tech stack" />
 </p>
 
@@ -47,6 +70,13 @@ I am Juan, a full-stack developer based in Spain focused on shipping useful, mai
 </a>
 
 </div>
+
+### Project Highlights
+
+- Tripin: travel-focused web product with end-to-end implementation.
+- DVCApp: final-degree proof-of-concept repository with product and technical depth.
+- RandoMaps: map-based project with practical JavaScript usage and deployment.
+- graph-algorithms-python: graph algorithms implemented in Python for learning and experimentation.
 
 ## GitHub Analytics
 
@@ -80,6 +110,35 @@ I am Juan, a full-stack developer based in Spain focused on shipping useful, mai
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanlassodelavega&theme=redical&hide_border=true&area=true" alt="Activity graph" />
 
 </div>
+
+## Focus Areas
+
+- Product engineering: shipping complete experiences, not isolated features.
+- Maintainability: readable code, clear structure, and scalable decisions.
+- Performance: optimize where impact is measurable for users.
+- Continuous learning: practical experiments and steady iteration.
+
+## Minimal Version
+
+<details>
+<summary>Open lightweight profile variant</summary>
+
+### Juan Lasso de la Vega
+
+Full-stack developer building maintainable products with clean UX and robust backend architecture.
+
+- Product-minded and pragmatic.
+- Spanish and English.
+- Open to collaborations and freelance opportunities.
+
+<a href="https://github.com/juanlassodelavega">
+  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
+<a href="https://linkedin.com/in/juanlassodelavega">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</details>
 
 ## A Bit of Developer Fuel
 
