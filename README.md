@@ -2,10 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0B132B&text=JUAN%20LASSO%20DE%20LA%20VEGA&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%20%26%20DATA%20ENGINEER%20%E2%80%A2%20PRODUCTION%20ML%20%E2%80%A2%20PALANTIR%20FOUNDRY&descAlignY=58&descSize=15&descColor=5BC0BE" width="100%" alt="Juan Lasso de la Vega" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=Turning+complex+data+into+trusted+decisions.;Building+production-grade+data+products.;Applied+ML+%7C+Data+Platforms+%7C+Operational+Intelligence." alt="Typing introduction" />
+</a>
+
 <p>
   <a href="mailto:juan.lassodelavega@outlook.com"><img src="https://img.shields.io/badge/EMAIL-EBF2FA?style=for-the-badge&logo=microsoftoutlook&logoColor=0B132B" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/juanlassodelavega"><img src="https://img.shields.io/badge/LINKEDIN-EBF2FA?style=for-the-badge&logo=linkedin&logoColor=0B132B" alt="LinkedIn" /></a>
   <a href="https://github.com/juanlassodelavega"><img src="https://img.shields.io/badge/GITHUB-EBF2FA?style=for-the-badge&logo=github&logoColor=0B132B" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=juanlassodelavega&style=for-the-badge&color=5BC0BE&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p><b>I turn complex data into reliable systems, useful intelligence and better decisions.</b></p>
@@ -68,6 +73,13 @@ critical processes more reliable and traceable.
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PALANTIR%20FOUNDRY-0B132B?style=flat-square&logoColor=white" alt="Palantir Foundry" />
+  <img src="https://img.shields.io/badge/APACHE%20SPARK-0B132B?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0B132B?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/DATA%20QUALITY-0B132B?style=flat-square&logo=databricks&logoColor=white" alt="Data quality" />
+</p>
+
 <table>
 <tr>
 <td><b>Platforms</b></td>
@@ -86,6 +98,27 @@ critical processes more reliable and traceable.
 <td>Requirements analysis · Stakeholder management · Documentation · Knowledge transfer</td>
 </tr>
 </table>
+
+## GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanlassodelavega&theme=github_dark" width="100%" alt="GitHub profile summary" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=juanlassodelavega&hide_border=true&background=0B132B&ring=5BC0BE&fire=5BC0BE&currStreakLabel=EBF2FA&sideLabels=EBF2FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BA8B8" alt="GitHub contribution streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanlassodelavega&theme=github_dark" height="180" alt="Repositories by language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juanlassodelavega&theme=github_dark" height="180" alt="Most used commit languages" />
+
+</div>
 
 ## Experience
 
@@ -120,15 +153,9 @@ integrations, and automated workflows in a business-critical environment.
 
 <div align="center">
 
-<a href="https://github.com/juanlassodelavega/Tripin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanlassodelavega&repo=Tripin&theme=github_dark&hide_border=true&description_lines_count=2" alt="Tripin repository" />
-</a>
-<a href="https://github.com/juanlassodelavega/DVCApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanlassodelavega&repo=DVCApp&theme=github_dark&hide_border=true&description_lines_count=2" alt="DVCApp repository" />
-</a>
-<a href="https://github.com/juanlassodelavega/RandoMaps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanlassodelavega&repo=RandoMaps&theme=github_dark&hide_border=true&description_lines_count=2" alt="RandoMaps repository" />
-</a>
+<a href="https://github.com/juanlassodelavega/Tripin"><img src="https://img.shields.io/badge/Tripin-Explore-0B132B?style=for-the-badge&logo=github&logoColor=5BC0BE" alt="Explore Tripin" /></a>
+<a href="https://github.com/juanlassodelavega/DVCApp"><img src="https://img.shields.io/badge/DVCApp-Explore-0B132B?style=for-the-badge&logo=github&logoColor=5BC0BE" alt="Explore DVCApp" /></a>
+<a href="https://github.com/juanlassodelavega/RandoMaps"><img src="https://img.shields.io/badge/RandoMaps-Explore-0B132B?style=for-the-badge&logo=github&logoColor=5BC0BE" alt="Explore RandoMaps" /></a>
 
 </div>
 
