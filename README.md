@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0B132B&text=JUAN%20LASSO%20DE%20LA%20VEGA&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%20%26%20DATA%20ENGINEER%20%E2%80%A2%20PRODUCTION%20ML%20%E2%80%A2%20PALANTIR%20FOUNDRY&descAlignY=58&descSize=15&descColor=5BC0BE" width="100%" alt="Juan Lasso de la Vega" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0B132B&text=JUAN%20LASSO%20DE%20LA%20VEGA&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%20AND%20DATA%20ENGINEER%20%E2%80%A2%20PRODUCTION%20ML%20%E2%80%A2%20PALANTIR%20FOUNDRY&descAlignY=58&descSize=15&descColor=5BC0BE" width="100%" alt="Juan Lasso de la Vega" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=5BC0BE&center=true&vCenter=true&width=760&lines=Turning+complex+data+into+trusted+decisions.;Building+production-grade+data+products.;Applied+ML+%7C+Data+Platforms+%7C+Operational+Intelligence." alt="Typing introduction" />
@@ -69,15 +69,22 @@ critical processes more reliable and traceable.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,java,cs,bash,r,postgres,mongodb,azure,docker,git,github&perline=12" alt="Programming languages and tools" />
+<p><b>LANGUAGES & ENGINEERING</b></p>
+<img src="https://skillicons.dev/icons?i=python,js,java,cs,bash,r&perline=6" alt="Python, JavaScript, Java, C Sharp, Bash and R" />
+
+<br />
+
+<p><b>DATA, ML & PLATFORMS</b></p>
+<img src="https://skillicons.dev/icons?i=postgres,azure,docker&perline=3" alt="SQL, Azure and Docker" />
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PALANTIR%20FOUNDRY-0B132B?style=flat-square&logoColor=white" alt="Palantir Foundry" />
-  <img src="https://img.shields.io/badge/APACHE%20SPARK-0B132B?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0B132B?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine learning" />
-  <img src="https://img.shields.io/badge/DATA%20QUALITY-0B132B?style=flat-square&logo=databricks&logoColor=white" alt="Data quality" />
+  <img src="https://img.shields.io/badge/PALANTIR%20FOUNDRY-0B132B?style=for-the-badge&logoColor=5BC0BE" alt="Palantir Foundry" />
+  <img src="https://img.shields.io/badge/SKYWise-0B132B?style=for-the-badge&logoColor=5BC0BE" alt="Skywise" />
+  <img src="https://img.shields.io/badge/APACHE%20SPARK-0B132B?style=for-the-badge&logo=apachespark&logoColor=5BC0BE" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/BIGQUERY-0B132B?style=for-the-badge&logo=googlebigquery&logoColor=5BC0BE" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/DATA%20QUALITY-0B132B?style=for-the-badge&logo=databricks&logoColor=5BC0BE" alt="Data quality" />
 </p>
 
 <table>
@@ -100,12 +107,6 @@ critical processes more reliable and traceable.
 </table>
 
 ## GitHub at a glance
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanlassodelavega&theme=github_dark" width="100%" alt="GitHub profile summary" />
-
-</div>
 
 <div align="center">
 
